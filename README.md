@@ -6,6 +6,8 @@ This project predicts traffic flow and congestion in Destin, Florida, using publ
 
 ## Repository Structure
 
+- **`PDFs of steps folder`**: Contains detailed code and output for steps 1-5 of the project workflow, executed in Jupyter Notebook.
+- **`Dashboard Video Example folder`**: A demonstration video showcasing Step 5, operating the interactive traffic prediction dashboard.
 - **`Destin Traffic Data.pdf`**: Raw traffic volume data from FDOT.
 - **`Destin Weather Data.csv`**: Historical weather data from OpenWeather.
 - **`merged_traffic_weather_data.csv`**: Combined dataset after preprocessing.
